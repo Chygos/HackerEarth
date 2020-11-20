@@ -2,6 +2,9 @@
      src="https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-predict-burnout-rate/images/8beab99412-Burnout_Cover_Image.png"  alt='Burnout_Cover_Image' style="width:100%">
 
 <a href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/">Link to Hackathon</a>
+
+<p>This contains the apprach used for the HackerRank Burn Rate Prediction. My approach landed me to the 4th position in the leaderboard</p>
+<a href="https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/leaderboard/predict-the-employee-burn-out-rate-7-6340b4e3/">Link to Leaderboard</a>
 ### Approach
 
 My approach was simple. My final model consists of aweighted average of three models:gradientboost, catboost and lightgbm regressors.
